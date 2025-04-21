@@ -44,7 +44,7 @@ streamlit
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/TitanNatesan/HerbalPlantClassification.git
+    git clone https://github.com/Ajaykumar2k003/HerbalPlantClassification.git
     cd Herbal-Plant-Classification
     ```
 
